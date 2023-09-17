@@ -17,3 +17,6 @@ The dataset used can be found at: *data/movies_initial.csv*. More information ab
 - sklearn
 - tensorflow
 - tabulate
+# Literature
+- http://cs230.stanford.edu/projects_winter_2020/reports/32643471.pdf
+
